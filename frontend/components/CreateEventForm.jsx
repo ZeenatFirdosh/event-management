@@ -21,7 +21,7 @@ export default function CreateEventForm({ currentProfile, selectedTimezone, setS
     e.preventDefault()
 
     if (selectedProfiles.length === 0 || !startDate || !endDate) {
-      alert("Please fill in all fields")
+      // alert("Please fill in all fields")
       return
     }
 

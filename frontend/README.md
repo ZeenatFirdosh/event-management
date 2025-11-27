@@ -2,6 +2,8 @@
 
 A React + Redux application for managing events across multiple profiles and timezones.
 
+## Deployed link: https://event-management-s1cf.vercel.app/
+
 ## Features
 
 - **Profile Management**: Create and manage multiple user profiles
